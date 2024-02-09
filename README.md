@@ -1,4 +1,4 @@
-# datetimewidget
+#  Django Date and Time Widget (Updated for Version 2.1)
 
 This repository is a fork of a date and time widget originally designed for Django, specifically tailored and updated for compatibility with version 2.1 of the framework. The original widget lacked support for this version, prompting the creation of this updated version by the repository owner.
 
